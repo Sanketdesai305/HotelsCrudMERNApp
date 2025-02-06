@@ -4,10 +4,10 @@
 The **Hotels CRUD MERN App** is a full-stack web application built using the **MERN (Express.js, React.js, and Node.js) stack**. This application enables users to manage hotel records by performing **Create, Read, Update, and Delete (CRUD)** operations.
 
 ## Features
-- **Add new hotels** with details such as name, location, price, and rating.
-- **View all hotels** in a dynamic list.
-- **Update hotel information** easily.
-- **Delete hotels** when no longer needed.
+- **Add new users to hotels** with details such as name, location, price, and rating.
+- **View all users in hotels** in a dynamic list.
+- **Update users information** easily.
+- **Delete users** when no longer needed.
 - **User-friendly interface** for seamless interaction.
 
 ## Tech Stack
