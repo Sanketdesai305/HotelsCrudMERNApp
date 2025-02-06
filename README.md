@@ -21,7 +21,6 @@ The **Hotels CRUD MERN App** is a full-stack web application built using the **M
 ### Prerequisites
 Ensure you have the following installed on your system:
 - Node.js
-- MongoDB
 - Git
 
 ### Steps to Run the Project
