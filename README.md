@@ -31,14 +31,14 @@ cd HotelsCrudMERNApp
 ```
 
 #### Install Dependencies
-##### Backend
+##### Main Directory
 ```sh
-cd Backend
+cd ./
 npm install
 ```
-##### Frontend
+##### Main Directory
 ```sh
-cd frontend
+cd ./
 yarn
 ```
 
@@ -48,9 +48,9 @@ yarn
 cd Backend
 node server.js
 ```
-##### Start Frontend Server
+##### Start Frontend Server in the Main Directory
 ```sh
-cd ../
+cd ./
 yarn start
 ```
 
