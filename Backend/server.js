@@ -42,7 +42,7 @@ app.post("/user", (req, res) => {
         return res.status(400).json({ error: "Name and email are required" });
     }
     console.log("Hotel",hotelName,"name", name, "email", email);
-    const user = { id: users.length + 1, name, email };
+    const user = { id: users.length + 1,hotelName, name, email };
     users.push(user);
     res.json(user);
 });
