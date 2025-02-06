@@ -113,7 +113,7 @@ This technique helps Copilot generate responses based on examples:
 If you provide a third sentence, Copilot will predict the correct result.
 
 ### API Calls from Frontend
-To connect the frontend with the backend using Axios, select:
+To connect the frontend with the backend using Axios, Click "+" to clear chat and Type-in the following:
 ```sh
 #selection Get the list of users from API endpoint http://localhost:3001/users/
 ```
@@ -121,7 +121,7 @@ This will generate the method to fetch data from the backend.
 
 ### Code Insertion
 Use **Copilot Chat** to insert code directly:
-- Type `Insert into new file` to create a new file with generated content.
+- Click `Insert into new file` to create a new file with generated content.
 
 ### Accessibility Verification (WCAG Guidelines)
 To verify if the UI meets **Web Content Accessibility Guidelines (WCAG)**, use:
